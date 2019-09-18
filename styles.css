@@ -1,0 +1,16 @@
+.coming-soon {
+    display: flex;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 3rem;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #ff6961; */
+    height: 600px;
+    color: rgb(17, 17, 17)163, 163);
+}
+.nav-bar {
+    height: 100px;
+    display: flex;
+    background-color: rgb(31, 30, 30);
+    border-radius: 5px;
+}
